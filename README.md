@@ -1,9 +1,9 @@
 # LR5-REST-API
 Удаленное файловое хранилище, предоставляющее REST API по протоколу HTTP  
 
-##HTTP-клиент: Postman  
+## HTTP-клиент: Postman  
 
-##Сервер запустится на http://localhost:5137/  
+## Сервер запустится на http://localhost:5137/  
 
 ![image](https://github.com/user-attachments/assets/14d7bd6f-2b61-4f54-9290-bdcdbd90ba7a)
 
